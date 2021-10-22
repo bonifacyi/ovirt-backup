@@ -1,0 +1,8 @@
+.idea/
+res/__pycache__/
+temp1.py
+/res/conf/
+/res/tmp/
+res/generate_key.py
+res/res_temp.py
+res/temp2.py
